@@ -1,0 +1,11 @@
+/Users/bobkuipers/Files/Minor/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.deps.json
+/Users/bobkuipers/Files/Minor/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.json
+/Users/bobkuipers/Files/Minor/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.runtimeconfig.dev.json
+/Users/bobkuipers/Files/Minor/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/bobkuipers/Files/Minor/HelloWorld/bin/Debug/netcoreapp2.1/HelloWorld.pdb
+/Users/bobkuipers/Files/Minor/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csprojAssemblyReference.cache
+/Users/bobkuipers/Files/Minor/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/bobkuipers/Files/Minor/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/bobkuipers/Files/Minor/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.AssemblyInfo.cs
+/Users/bobkuipers/Files/Minor/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.dll
+/Users/bobkuipers/Files/Minor/HelloWorld/obj/Debug/netcoreapp2.1/HelloWorld.pdb
